@@ -15,7 +15,7 @@ class _TelaSecundariaState extends State<TelaSecundaria> {
     return Scaffold(
       appBar: AppBar(
         title: Text("Tela Secundaria"),
-        backgroundColor: Colors.blue,
+        backgroundColor: Colors.green,
       ),
       body: Container(
         child: Column(

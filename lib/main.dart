@@ -22,7 +22,7 @@ class _TelaPrincipalState extends State<TelaPrincipal> {
     return Scaffold(
       appBar: AppBar(
         title: Text("Tela Principal"),
-        backgroundColor: Colors.orange,
+        backgroundColor: Colors.pink,
       ),
       body: Container(
         padding: EdgeInsets.all(32),
